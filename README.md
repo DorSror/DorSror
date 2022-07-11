@@ -11,9 +11,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   </br>
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+  <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-AE26ED.svg?style=for-the-badge&logo=jetbrains&logoColor=white" />
   <img alt="VS" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </br>
@@ -43,7 +41,7 @@
     <tr>
       <td><a href="https://github.com/DorSror/file-backup-system-cloud"><b>Cloud Backup System</b></a></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/DorSror/LogicalExpressions"><b>Logical Expression Simplifier</b></a></td>
     </tr>
     <tr>
