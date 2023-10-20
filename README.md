@@ -1,7 +1,7 @@
 <h1>👋 Hi there, I’m @DorSror 👋</h1>
   
-<p>Welcome to my page! I'm Dor Sror, a B.Sc. Computer Science sophomore at the beginning of my career. </br> I am from <b><img src="https://cdn-icons-png.flaticon.com/512/197/197577.png" width="14"/> Petaẖ Tiqva, Israel</b>. </br> Currently looking for a Software Development position. I am also open for other offers aswell!</p>
-<h3>Some of the technologies I code with</h3>
+<p>Welcome to my page! I'm Dor Sror, a B.Sc. Computer Science sophomore at the beginning of my career. </br> I am from <b><img src="https://cdn-icons-png.flaticon.com/512/197/197577.png" width="14"/> Petaẖ Tiqva, Israel</b>. </br> Currently looking for a Software Development position. I am also open for other offers aswell! </br> Planning on pursuing a M.Sc. in computer science with expertise in cryptography. </p>
+<h3>Some of the technologies I work with</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
