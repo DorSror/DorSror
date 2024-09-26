@@ -48,7 +48,7 @@
       <td><a href="https://github.com/DorSror/Arkanoid"><b>Arkanoid (Java)</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EldorZang/Advanced-Programming-2-assignment-2"><b>Chat App (Android and Backend)</b></a> and <a href="https://github.com/EldorZang/Advanced-Programming-2-Project"><b>Chat App (React Frontend)</b></a></td>
+      <td>Chat App - <a href="https://github.com/EldorZang/Advanced-Programming-2-assignment-2"><b>Android and Backend</b></a>, <a href="https://github.com/EldorZang/Advanced-Programming-2-Project"><b>React Frontend</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/EldorZang/Advanced-Programming-1"><b>Anomaly Detection (C++)</b></a></td>
