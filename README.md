@@ -67,7 +67,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
 </p>
-<p>In any other case you can mail me at <b>Dor2419S@gmail.com</b>.</p>
+<p>Feel free to contact me at <b>Dor2419S@gmail.com</b>.</p>
 
 <!---
 DorSror/DorSror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
