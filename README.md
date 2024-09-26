@@ -1,6 +1,6 @@
 <h1>👋 Hi there, I’m @DorSror 👋</h1>
   
-<p>Welcome to my page! I'm Dor Sror, a B.Sc. Computer Science graduate from BIU at the beginning of my career. </br> I am from <b><img src="https://cdn-icons-png.flaticon.com/512/197/197577.png" width="14"/> Petaẖ Tiqva, Israel</b>. </br> Currently looking for a Software Development position. I am also open for other offers aswell! </br> Planning on pursuing a M.Sc. in computer science with expertise in cryptography. </p>
+<p>Welcome to my page! I'm Dor Sror, a B.Sc. Computer Science graduate from BIU at the beginning of my career. </br> I am from <b><img src="https://cdn-icons-png.flaticon.com/512/197/197577.png" width="14"/> Israel</b>. </br> Currently looking for a Software Development position.</p>
 <h3>Some of the technologies I work with</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -21,12 +21,14 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </br>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
