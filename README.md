@@ -32,28 +32,14 @@
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-<h3>Some of my public projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/DorSror/file-backup-system-cloud"><b>Cloud Backup System</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DorSror/LogicalExpressions"><b>Logical Expression Simplifier</b></a></td>
-    </tr>
-    <tr>
-      <td>Chat App - <a href="https://github.com/EldorZang/Advanced-Programming-2-assignment-2"><b>Android and Backend</b></a>, <a href="https://github.com/EldorZang/Advanced-Programming-2-Project"><b>React Frontend</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/EldorZang/Advanced-Programming-1"><b>Anomaly Detection (C++)</b></a></td>
-    </tr>
-  </tbody>
-</table>
+<h3>Some of my projects: </h3>
+
+* CouponVerse - Community-Based Coupon Trading and Management Android app with Recommendation mModels (Kotlin, C#, Python) (Final Project)
+* Chat App - Android and Full Stack web apps Backend
+* Cloud Backup System
+* Arkanoid - Arcade Game (Java)
+* Logical Expression Simplifier
+* Anomaly Detection (C++)
 
 <h3>My socials</h3>
 <p>
