@@ -47,9 +47,6 @@
       <td><a href="https://github.com/DorSror/LogicalExpressions"><b>Logical Expression Simplifier</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DorSror/Arkanoid"><b>Arkanoid (Java)</b></a></td>
-    </tr>
-    <tr>
       <td>Chat App - <a href="https://github.com/EldorZang/Advanced-Programming-2-assignment-2"><b>Android and Backend</b></a>, <a href="https://github.com/EldorZang/Advanced-Programming-2-Project"><b>React Frontend</b></a></td>
     </tr>
     <tr>
